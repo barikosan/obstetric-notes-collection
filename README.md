@@ -70,5 +70,18 @@ Each line in `annotations.jsonl` is a JSON object:
 | Avg. sections per note | ~16 |
 | Distinct section headers | 30 |
 
+## Citation
+
+If you use this dataset, please cite:
+```
+@article{karacan2026bridging,
+  title={Bridging the Domain Divide: Supervised vs. Zero-Shot Clinical Section Segmentation from MIMIC-III to Obstetrics},
+  author={Karacan, Baris and Di Eugenio, Barbara and Thornton, Patrick},
+  note={Accepted at LREC 2026. To appear in the proceedings},
+  journal={arXiv preprint arXiv:2602.17513},
+  year={2026},
+  url={https://arxiv.org/pdf/2602.17513}
+}
+```
 
 
