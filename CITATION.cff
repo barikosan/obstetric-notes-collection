@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite our paper."
+type: dataset
+title: "Obstetrics Notes Collection (ONC)"
+authors:
+  - family-names: Karacan
+    given-names: Baris
+  - family-names: Di Eugenio
+    given-names: Barbara
+  - family-names: Thornton
+    given-names: Patrick
+repository-code: "https://github.com/barikosan/obstetric-notes-collection"
+license: "CC-BY-NC-4.0" 
+preferred-citation:
+  type: article
+  title: "Bridging the Domain Divide: Supervised vs. Zero-Shot Clinical Section Segmentation from MIMIC-III to Obstetrics"
+  authors:
+    - family-names: Karacan
+      given-names: Baris
+    - family-names: Di Eugenio
+      given-names: Barbara
+    - family-names: Thornton
+      given-names: Patrick
+  journal: "Proceedings of LREC 2026 (to appear)"
+  year: 2026
+  number: "2602.17513"
+  url: "https://arxiv.org/abs/2602.17513"
